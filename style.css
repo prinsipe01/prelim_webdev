@@ -1,0 +1,89 @@
+body{
+    background-color: lightblue;
+}
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 60%;
+    text-align: center;
+    height: 601px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: -9px -9px 1px 5px white;
+}
+.logo{
+    height: 80px;
+    background-color: lightpink;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.nav{
+    height: 50px;
+    background-color: lightgoldenrodyellow;
+}
+.content{
+    margin-top: 6.5px;
+}
+.search{
+    width: 19%;
+    background-color: lightpink;
+    height: 405px;
+    margin-right: 1%;
+    float: left;
+}
+.banner{
+    width: 60%;
+    background-color: dimgray;
+    height: 170px;
+    float: left;
+}
+.product{
+    width: 60%;
+    background-color: palevioletred;
+    height: 230px;
+    float: left;
+}
+.article{
+    margin-top: 6px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding left: 10px;
+    width: 90%;
+    background-color: beige;
+    height: 205px;
+    float: left;   
+}
+.side-nav{
+    width: 9%;
+    background-color: white;
+    height: 238px;
+    float: right;
+    margin-right: 1%;
+}
+.categories{
+    width: 9%;
+    background-color: lightyellow;
+    height: 238px;
+    float: right; 
+    margin-bottom: 6.5px;
+}
+.other{
+    width: 19%;
+    float: right;
+    height: 160px;
+    background-color: lightskyblue;
+    
+}
+.footer{
+    float: left;
+    margin-top: 6.5px;
+    height: 50px;
+    width: 100%;
+    background-color: aqua; 
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
